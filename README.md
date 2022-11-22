@@ -1,7 +1,7 @@
 ### Olá, eu sou o Matheus Alves!
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/math_alves099)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/matheusalvesreisdasilva/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusalvesreisdasilva/)
 
 ![MatheusAlves099 GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusalves099&show_icons=true&theme=onedark)
 
